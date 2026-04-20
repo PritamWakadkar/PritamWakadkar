@@ -41,11 +41,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PritamWakadkar&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=PritamWakadkar&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamWakadkar&show_icons=true&theme=radical" height="165em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritamWakadkar&theme=radical" height="165em"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamWakadkar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamWakadkar&layout=compact&theme=radical" height="165em"/>
 </p>
 
 ---
